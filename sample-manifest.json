@@ -1,0 +1,12 @@
+{
+  "export_job_id": "ec3c6956-34a0-48c9-89d2-32d5e7985c58",
+  "id_short": 642652,
+  "published_at": "2026-04-14T19:29:11Z",
+  "repo_name": "all-restaurants-in-somerville-massachusetts-us-sample-642652",
+  "sample_asset_name": "beamstation_642652_restaurants-us-ma_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/642652/beamstation_642652_restaurants-us-ma_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "d5cecc67b833c4979877675cbe77a65398c6903d52907161c0a8f38a7919eb83",
+  "sample_size_bytes": 110796,
+  "total_records": 255
+}
