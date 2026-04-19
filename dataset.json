@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Local dining market data for Somerville in New England. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in Somerville, Massachusetts, US",
-  "export_job_id": "ec3c6956-34a0-48c9-89d2-32d5e7985c58",
+  "export_job_id": "edac885a-50ef-4607-8f86-cc5edb8b1bd9",
   "github_org": "Beamstation-Datasets",
   "id_short": 642652,
   "location_name": "Somerville",
   "location_type": "city",
   "repo_name": "all-restaurants-in-somerville-massachusetts-us-sample-642652",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/642652/beamstation_642652_restaurants-us-ma_SAMPLE_DIST.csv",
-  "sample_pct": 9.8,
+  "sample_pct": 9.84,
   "sample_records": 25,
-  "sample_sha256": "d5cecc67b833c4979877675cbe77a65398c6903d52907161c0a8f38a7919eb83",
-  "sample_size_bytes": 110796,
-  "total_records": 255,
-  "updated_at": "2026-04-09T10:17:01.456429+00:00"
+  "sample_sha256": "d3cdfb106383a53bbeabca551189eb0428510150dc81f3584025bae6d0a320b7",
+  "sample_size_bytes": 108744,
+  "total_records": 254,
+  "updated_at": "2026-04-16T10:12:13.898132+00:00"
 }
