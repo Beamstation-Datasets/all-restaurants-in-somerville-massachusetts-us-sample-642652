@@ -9,9 +9,9 @@
 | Dataset ID | `642652` |
 | Location | Somerville |
 | Category | Restaurants |
-| Full dataset size | 255 records |
-| Free sample size | 25 records (9.8%) |
-| Last export | 2026-04-09T10:17:01.456429+00:00 |
+| Full dataset size | 254 records |
+| Free sample size | 25 records (9.84%) |
+| Last export | 2026-04-16T10:12:13.898132+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-somerville-massachusetts-us-sample-642652/releases/download/sample-latest/beamstation_642652_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
