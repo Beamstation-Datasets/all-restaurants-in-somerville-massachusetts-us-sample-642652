@@ -1,6 +1,6 @@
 # All Restaurants in Somerville, Massachusetts, US
 
-> Free BeamStation sample export with 23 rows and masked direct-contact fields.
+> Free BeamStation sample export with 25 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `642652` |
 | Location | Somerville |
 | Category | Restaurants |
-| Full dataset size | 239 records |
-| Free sample size | 23 records (9.62%) |
-| Last export | 2026-04-23T10:07:18.181287+00:00 |
+| Full dataset size | 251 records |
+| Free sample size | 25 records (9.96%) |
+| Last export | 2026-04-30T10:13:36.972509+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-somerville-massachusetts-us-sample-642652/releases/download/sample-latest/beamstation_642652_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
